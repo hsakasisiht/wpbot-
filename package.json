@@ -1,0 +1,16 @@
+{
+  "name": "konoha-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot to tag all group members",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "keywords": ["whatsapp", "bot", "tagall"],
+  "author": "",
+  "license": "MIT"
+}

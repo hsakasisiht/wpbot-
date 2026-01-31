@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Session data
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Subscription data (optional - remove if you want to track)
+# subscriptions.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
